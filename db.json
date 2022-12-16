@@ -1,0 +1,9 @@
+{
+    "signIn":[
+        {"id":1,"mobile":1203654785}
+    ],
+    "logIn":[{"id":1,"mobile":1203654785}],
+    "address":[{"street":"4","city":"ghaziabad","state":"U.P."}],
+    "Product":[]
+ 
+}
