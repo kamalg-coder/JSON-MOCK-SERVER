@@ -1,11 +1,11 @@
 {
-    "signIn": [
+    "signin": [
         {
             "id": 1,
             "mobile": 1203654785
         }
     ],
-    "logIn": [
+    "login": [
         {
             "id": 1,
             "mobile": 1203654785
@@ -1215,6 +1215,6 @@
     ],
     "CartItem": [],
     "Orders": [],
-    "Users": [],
-    "login":[]
+    "Users": []
+
 }
