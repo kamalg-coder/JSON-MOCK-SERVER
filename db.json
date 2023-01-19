@@ -1,23 +1,6 @@
 {
-    "signin": [
-        {
-            "id": 1,
-            "mobile": 1203654785
-        }
-    ],
-    "login": [
-        {
-            "id": 1,
-            "mobile": 1203654785
-        }
-    ],
-    "address": [
-        {
-            "street": "4",
-            "city": "ghaziabad",
-            "state": "U.P."
-        }
-    ],
+  
+  
     "Product": [
         {
             "id": 1,
@@ -1015,7 +998,7 @@
             "returnable": true,
             "timeToShip": 4,
             "cancellable": false,
-            "discount": 110,
+            "discount": 10,
             "description": "multivitamin capsules for men with 12 essential vitamins, trace minerals, 11 macrominerals",
             "category": "Packaged Foods"
         },
@@ -1135,7 +1118,7 @@
             "category": "Packaged Foods"
         },
         {
-            "id": 70,
+            "id": 71,
             "images": [
                 "https://cdn.plotch.io/image/upload/w_550/C/V/PLOSexTMlF1669701760_369a1a2156d0b2b6f96e48bade56bce062cbc7838ed06d70c7bed808db959189.jfif",
                 "https://cdn.plotch.io/image/upload//C/V/PLO5IcgZNS1669701763_effa9a06c019615c341ab6cc08bffcc052fbe5a1395df5557fc300ed043ec5ad.jfif"
@@ -1151,7 +1134,7 @@
             "category": "Packaged Foods"
         },
         {
-            "id": 71,
+            "id": 72,
             "images": [
                 "https://cdn.plotch.io/image/upload/w_550/C/V/PLOKGJQ9681666767108_ec7b2cc6052f3a83582312fd31b9a7c9a44cad6d9f19d1739fa65e92b9b6880c.jpg",
                 "https://cdn.plotch.io/image/upload//C/V/PLOg0Ai5BU1666767111_3586d383f47637c9e06cf80b1902676a6e16ab5223efac527e8fbfd3ad264445.jpg",
@@ -1168,7 +1151,7 @@
             "category": "Packaged Foods"
         },
         {
-            "id": 72,
+            "id": 73,
             "images": [
                 "https://cdn.plotch.io/image/upload/w_550/C/V/PLOlUKRb5X1670992266_6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.jpg"
             ],
@@ -1183,7 +1166,7 @@
             "category": "Packaged Foods"
         },
         {
-            "id": 73,
+            "id": 74,
             "images": [
                 "https://cdn.plotch.io/image/upload/w_550/C/V/PLOUi39uHP1670992267_6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.jpg"
             ],
@@ -1198,7 +1181,7 @@
             "category": "Packaged Foods"
         },
         {
-            "id": 74,
+            "id": 75,
             "images": [
                 "https://cdn.plotch.io/image/upload/w_550/C/V/PLOs7aN74m1670992264_6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.jpg"
             ],
